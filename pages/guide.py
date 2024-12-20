@@ -128,9 +128,9 @@ st.write("You can easily display data in tables, charts, and more.")
 # DataFrame
 st.subheader("1. DataFrame")
 data = {
-    'Name': ['John', 'Anna', 'Peter', 'Linda'],
+    'Name': ['Mili', 'Kaushik', 'praveen', 'harsha'],
     'Age': [28, 24, 35, 32],
-    'City': ['New York', 'Paris', 'Berlin', 'London']
+    'City': ['Kedharnath', 'Nanded', 'Secunderabad', 'Hyderabad']
 }
 df = pd.DataFrame(data)
 st.write("You can display DataFrames like this:")
